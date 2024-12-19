@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report for Dev Containers/WSL/Remote - Tunnels/VS Code Server
+about: Create a report to help us improve. 
 ---
 
 <!-- Please search existing issues to avoid creating duplicates, and review our troubleshooting tips: https://code.visualstudio.com/docs/remote/troubleshooting -->
@@ -10,7 +10,7 @@ about: Create a report to help us improve
 - VSCode Version:
 - Local OS Version:
 - Remote OS Version:
-- Remote Extension/Connection Type: SSH/Containers/WSL/Server
+- Remote Extension/Connection Type: Dev Containers/WSL/Remote - Tunnels/VS Code Server <!-- WARNING: Are you reporting a Remote - SSH issue? To prevent delays, please STOP and use the 'Remote - SSH Bug' issue template instead -->
 - Logs:
 
 Steps to Reproduce:
